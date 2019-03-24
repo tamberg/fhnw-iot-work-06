@@ -5,7 +5,7 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) BLE, 20'
+### a) Bluetooth LE, 20'
 * Run the previous Bluetooth LE examples on the Pi.
 * Make sure Node.js, npm and Noble are all installed.
 * Use the .js link on each page or check the main repo.
