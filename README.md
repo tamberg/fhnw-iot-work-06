@@ -19,6 +19,18 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 * To display the IP address on the Pi, type: ```$ ifconfig```
 * Then access http://IP:8080/ or https://IP:4443/ 
 
+### c) Remote access, 10'
+* Install a [Ngrok](https://ngrok.com/), [Pagekite](https://pagekite.net/) or [Yaler](https://yaler.net/) relay service dæmon.
+* Configure it to publish the secure Node.js Web service.
+* Submit the URL to access your Web service via Slack.
+
+### d) Putting it all together
+* Choose one of the BLE to Wi-Fi gateway use cases.
+* Implement it combining the above building blocks.
+* For the backend, use a relay service or ThingSpeak<sup>*</sup>.
+* Make it work end-to-end first, then make it robust.
+<sup>*</sup>) Depending on the use case you chose.
+
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
 * Want a review? [Create an issue](../../issues/new), mention me (@tamberg).
