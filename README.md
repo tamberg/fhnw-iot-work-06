@@ -20,7 +20,7 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 * Then access http://IP:8080/ or https://IP:4443/ 
 
 ### c) Remote access, 10'
-* Install a [Ngrok](https://ngrok.com/), [Pagekite](https://pagekite.net/) or [Yaler](https://yaler.net/) relay service dæmon.
+* Install a [Ngrok](https://ngrok.com/), [Pagekite](https://pagekite.net/) or [Yaler](https://yaler.net/) relay service daemon.
 * Configure it to publish the secure Node.js Web service.
 * Submit the URL to access your Web service via Slack.
 
