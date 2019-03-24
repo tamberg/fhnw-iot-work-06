@@ -29,6 +29,7 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 * Implement it combining the above building blocks.
 * For the backend, use a relay service or ThingSpeak<sup>*</sup>.
 * Make it work end-to-end first, then make it robust.
+
 <sup>*</sup>) Depending on the use case you chose.
 
 ### Submitting results
