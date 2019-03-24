@@ -24,7 +24,7 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 * Configure it to publish the secure Node.js Web service.
 * Submit the URL to access your Web service via Slack.
 
-### d) Putting it all together
+### d) Putting it all together, 30'
 * Choose one of the BLE to Wi-Fi gateway use cases.
 * Implement it combining the above building blocks.
 * For the backend, use a relay service or ThingSpeak<sup>*</sup>.
