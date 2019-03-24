@@ -27,7 +27,7 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 ### d) Putting it all together, 30'
 * Choose one of the BLE to Wi-Fi gateway use cases.
 * Implement it combining the above building blocks.
-* For the backend, use a relay service or ThingSpeak,<br/>depending on the use case you chose.
+* For the backend, use a relay service or ThingSpeak.
 * Make it work end-to-end first, then make it robust.
 
 ### Submitting results
