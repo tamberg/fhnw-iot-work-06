@@ -12,6 +12,13 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 * To run a Node.js program my.js, type ```$ node my.js```
 * Use the nRF5280 [HRM BLE Peripheral](https://github.com/tamberg/fhnw-iot/blob/master/05/Arduino/nRF52840_HrmBlePeripheral/nRF52840_HrmBlePeripheral.ino) for testing.
 
+### b) Web client and service, 20'
+* Run the previous Web client and service examples.
+* Use the .js link on each page or check the main repo.
+* To run a Node.js program _my.js_, type: ```$ node my.js```
+* To display the IP address on the Pi, type: ```$ ifconfig```
+* Then access http://IP:8080/ or https://IP:4443/ 
+
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
 * Want a review? [Create an issue](../../issues/new), mention me (@tamberg).
