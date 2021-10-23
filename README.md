@@ -7,9 +7,10 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 
 ### a) Bluetooth LE, 20'
 * Run the previous Bluetooth LE examples on the Pi.
-* Make sure Node.js, npm and Noble are all installed.
+* Make sure _node_, _npm_ and _noble_ are all installed.<br/>
+(Install _noble_ locally, in ```~/fhnw-iot/06/Nodejs```)
 * Use the .js link on each page or check the main repo.
-* To run a Node.js program my.js, type ```$ node my.js```
+* To run a Node.js program _my.js_, type ```$ node my.js```
 * Use the nRF5280 [HRM BLE Peripheral](https://github.com/tamberg/fhnw-iot/blob/master/05/Arduino/nRF52840_HrmBlePeripheral/nRF52840_HrmBlePeripheral.ino) for testing.
 
 ### b) Web client &amp; service, 20'
