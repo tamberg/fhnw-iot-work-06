@@ -31,7 +31,7 @@ For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/REA
 * Configure it to publish the secure Node.js Web service.
 * Submit the URL to access your Web service via Slack.
 
-### e) Putting it all together, 1h+
+### e) Challenge, 1h+
 * Choose one of the BLE to Wi-Fi gateway use cases.
 * Implement it, combining the above building blocks.
 * If the Pi is a Web Server, expose it via a relay service.
